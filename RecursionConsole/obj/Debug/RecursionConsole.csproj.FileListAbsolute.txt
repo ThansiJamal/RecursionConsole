@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\RecursionConsole\RecursionConsole\bin\Debug\RecursionConsole.exe.config
+C:\Users\user\source\repos\RecursionConsole\RecursionConsole\bin\Debug\RecursionConsole.exe
+C:\Users\user\source\repos\RecursionConsole\RecursionConsole\bin\Debug\RecursionConsole.pdb
+C:\Users\user\source\repos\RecursionConsole\RecursionConsole\obj\Debug\RecursionConsole.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RecursionConsole\RecursionConsole\obj\Debug\RecursionConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RecursionConsole\RecursionConsole\obj\Debug\RecursionConsole.exe
+C:\Users\user\source\repos\RecursionConsole\RecursionConsole\obj\Debug\RecursionConsole.pdb
